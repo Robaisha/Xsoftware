@@ -1,0 +1,27 @@
+.form{
+    margin:10px;
+    padding: 20;
+    background-color: rgb(99, 129, 228);
+    height:100vh;
+    overflow:hidden;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+    padding-top: 200px;
+}
+.input{
+    color: rgb(115, 61, 126);
+}
+.button{
+    border-radius: 10px;
+    background-color: rgb(23, 21, 134);
+    color: white;
+    border: 2px solid #4CAF50; /* Green */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #2db828; /* Green */
+    color: white;
+  }
+  
